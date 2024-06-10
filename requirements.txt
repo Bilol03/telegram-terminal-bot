@@ -1,0 +1,8 @@
+flask
+python-dotenv
+python-telegram-bot
+python-telegram-bot[all]
+python-telegram-bot[socks]
+python-telegram-bot[http2]
+python-telegram-bot[rate-limiter]
+python-telegram-bot[ext]
